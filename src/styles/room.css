@@ -82,3 +82,21 @@ form{
     font-size: 14px;
     font-weight: 500;
 }
+
+.user-info{
+    display: flex;
+    align-items: center;
+}
+
+.user-img{
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+}
+
+.user-nome{
+    margin-left: 8px;
+    color: #29292e;
+    font-weight: 500;
+    font-size: 14px;
+}
